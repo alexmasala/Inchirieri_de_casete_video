@@ -1,0 +1,11 @@
+C:\Users\Acer\source\PAW_SEMINAR_CSIE_anul2_2020\Assignment1_Masala_Alexandra_Grupa1052\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Acer\source\PAW_SEMINAR_CSIE_anul2_2020\Assignment1_Masala_Alexandra_Grupa1052\Assignment\bin\Debug\Assignment.exe
+C:\Users\Acer\source\PAW_SEMINAR_CSIE_anul2_2020\Assignment1_Masala_Alexandra_Grupa1052\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Acer\source\PAW_SEMINAR_CSIE_anul2_2020\Assignment1_Masala_Alexandra_Grupa1052\Assignment\obj\Debug\Inchirieri_de_casete_video.csprojAssemblyReference.cache
+C:\Users\Acer\source\PAW_SEMINAR_CSIE_anul2_2020\Assignment1_Masala_Alexandra_Grupa1052\Assignment\obj\Debug\Inchirieri_de_casete_video.EditareInchirieri.resources
+C:\Users\Acer\source\PAW_SEMINAR_CSIE_anul2_2020\Assignment1_Masala_Alexandra_Grupa1052\Assignment\obj\Debug\Inchirieri_de_casete_video.FormularInchirieri.resources
+C:\Users\Acer\source\PAW_SEMINAR_CSIE_anul2_2020\Assignment1_Masala_Alexandra_Grupa1052\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\Acer\source\PAW_SEMINAR_CSIE_anul2_2020\Assignment1_Masala_Alexandra_Grupa1052\Assignment\obj\Debug\Inchirieri_de_casete_video.csproj.GenerateResource.cache
+C:\Users\Acer\source\PAW_SEMINAR_CSIE_anul2_2020\Assignment1_Masala_Alexandra_Grupa1052\Assignment\obj\Debug\Inchirieri_de_casete_video.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\PAW_SEMINAR_CSIE_anul2_2020\Assignment1_Masala_Alexandra_Grupa1052\Assignment\obj\Debug\Assignment.exe
+C:\Users\Acer\source\PAW_SEMINAR_CSIE_anul2_2020\Assignment1_Masala_Alexandra_Grupa1052\Assignment\obj\Debug\Assignment.pdb
